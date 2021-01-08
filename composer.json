@@ -1,0 +1,14 @@
+{
+  "name": "tezus/traducao_magento2_pt_br",
+  "description": "Tradução Magento 2 para Português do Brasil oficial da Tezus",
+  "minimum-stability": "stable",
+  "require": {},
+  "type": "magento2-language",
+  "license": "Apache 2.0",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  },
+  "version": "1.0.0"
+}
