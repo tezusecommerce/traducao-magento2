@@ -48,4 +48,10 @@ $ php bin/magento cache:clean
 
 <hr>
 
+### Habilitando a Tradução no Backend
+1. Entre no painel admin da loja
+2. Clique no boneco que representa a conta e depois em "Account Settings"
+3. Troque a Interface Language do Inglês para o Português e salve.
+4. Se a tradução não pegar instantaneamente limpe os caches.
+
 <a href="#top">Voltar para o topo</a>
