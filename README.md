@@ -12,9 +12,9 @@
 ## :dart: Sobre ##
 
 Projeto de tradução do Magento 2 exclusivo da Tezus Ecommerce.
-[x] Magento 2 Open Source
-[x] Magento 2 Commerce
-[x] Magento 2 B2B
+- [x] Magento 2 Open Source
+- [x] Magento 2 Commerce
+- [x] Magento 2 B2B
 
 ## :checkered_flag: Instalação ##
 
