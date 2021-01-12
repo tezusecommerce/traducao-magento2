@@ -20,7 +20,7 @@ Projeto de tradução do Magento 2 exclusivo da Tezus Ecommerce.
 ### Via Composer
 
 ```bash
-$ composer require tezus/traducao_magento2_pt_br
+$ composer require tezus/traducao-magento2
 $ php bin/magento setup:static-content:deploy pt_BR -f
 $ php bin/magento cache:clean
 ```
