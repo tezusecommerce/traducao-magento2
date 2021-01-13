@@ -9,7 +9,7 @@
 
 <br>
 
-## :dart: Sobre ##
+## :dart: Compatibilidade ##
 
 Projeto de tradução do Magento 2 exclusivo da Tezus Ecommerce.
 - [x] Magento 2.3.x
