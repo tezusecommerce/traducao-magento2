@@ -3,7 +3,7 @@
   "description": "Tradução Magento 2 para Português do Brasil oficial da Tezus",
   "minimum-stability": "stable",
   "require": {},
-  "type": "magento2-module",
+  "type": "magento2-language",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
