@@ -11835,15 +11835,12 @@ Inactivate,Inativar
 "Service Temporarily Unavailable","Estamos em Manutenção"
 "The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.","A loja virtual está em manutenção. Por favor, tente novamente mais tarde."
 
-
-
-
-
-
-
-
-
-
-
-
-
+"We can\'t find a page to delete.", "Não foi encontrada um registro para excluir!"
+"This record no longer exists.", "Este registro não existe mais."
+"The record has been deleted.", "O registro foi excluído."
+"Invalid phone number!", "Número de telefone inválido"
+"Invalid e-mail!", "E-mail inválido!"
+"Invalid CPF!", "CPF Inválido!"
+"Invalid CNPJ!", "CNPJ Inválido!"
+"New Record", "Novo Registro"
+"Edit Record: %1", "Editar Registro: %1"
