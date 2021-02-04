@@ -41,7 +41,7 @@ $ mkdir -p /tezus/pt_BR
 $ cp traducao-tezus/app/i18n/tezus/pt_BR/* /app/i18n/tezus/pt_BR/*
 
 # Fazer o deploy e limpar o cache
-$ php bin/magento setup:static-content:deploy -f
+$ php bin/magento setup:static-content:deploy pt_BR -f
 $ php bin/magento cache:clean
 ```
 
