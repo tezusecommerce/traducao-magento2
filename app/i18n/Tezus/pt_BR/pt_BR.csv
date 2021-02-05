@@ -3194,7 +3194,7 @@ Contacts,Contatos
 "* Create and manage company shipping and billing addresses","* Criar e gerenciar os endereços de remessa e cobrança da empresa"
 "You've been added to the <a href=%customer_url>%company_name</a> as the company member.
     Once you enter your account,
-    the company's shared resources will be available for you.","Você foi adicionado a <a href=%customer_url>%company_name</a> 
+    the company's shared resources will be available for you.","Você foi adicionado a <a href=%customer_url>%company_name</a>
 como o membro da empresa.
     Depois de inserir sua conta,
     os recursos compartilhados da empresa estarão disponíveis para você."
@@ -3378,7 +3378,7 @@ Reverted,Revertido
 "Could not save company credit limit","Não foi possível salvar o limite de crédito da empresa"
 "Please enter a valid %1/%2 currency rate.","Por favor insira uma taxa de câmbio %1/%2 válida."
 "Invoice created for %1","Fatura criada para %1"
-"The selected credit currency is not valid. 
+"The selected credit currency is not valid.
                         Customers will not be able to place orders until you update the credit currency.","A moeda de crédito selecionada não é válida.
                         Os clientes não poderão fazer pedidos até você atualizar a moeda de crédito."
 "Store Credit","Crédito na loja"
@@ -6219,8 +6219,8 @@ item,artigo
 "Position of attribute in layered navigation block","Posição do atributo no bloco de navegação em camadas."
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Pode ser usado somente com um dos tipos de campo de catálogo, Sim/Não, Menu Suspenso, Múltipla Seleção ou Preço"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Pode ser usado apenas com o tipo de entrada de catálogo Sim/Não, Menu suspenso, Seleção múltipla e Preço.                     
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option -
+                     it will make no affect on Price filter.","Pode ser usado apenas com o tipo de entrada de catálogo Sim/Não, Menu suspenso, Seleção múltipla e Preço.
 <br> O preço não é compatível com a opção <b> 'Filtrável (sem resultados)' </b> -                      isso não afetará o filtro de preços."
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Pode ser usado somente com um dos tipos de campo de catálogo, Sim/Não, Menu Suspenso, Múltipla Seleção ou Preço."
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Apenas pode ser usado com tipo de input de catalogo Sim/Não (Booleano), Menu, Seleção Múltipla e Preço."
@@ -6862,7 +6862,7 @@ Expires:,"Expira em:"
 "No such public catalog entity","Nenhuma entidade de catálogo público"
 "Shared Catalog (or Customer Group)","Catálogo Compartilhado (ou Grupo de Clientes)"
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Não está configurado nenhuma ID de Aplicação New Relic, não é possível continuar com o relatório através de eventos Cron"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","A integração New Relic exige o agente newrelic-php5, que não está instalado. Mais informação sobre como instalar o agente está disponível <a target=""_blank"" href=""%1"">aqui</a>."
 "New Relic Reporting Section","Secção de Relatórios New Relic"
 "New Relic Reporting","Relatórios New Relic"
@@ -9993,12 +9993,12 @@ Pricing,Preços
 "Delete ""${ $.$data.name }""","Excluir{ $.$data.name } $"
 "Catalog and Tier Price","Catálogo e Camada de Preço"
 "Group or Catalog","Grupo ou Catálogo"
-"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
+"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in
         Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.
-        Otherwise, the categories and products you're configuring in shared catalogs will 
+        Otherwise, the categories and products you're configuring in shared catalogs will
         not be restricted to customers.","Você precisa habilitar o  <a href=""%1"" data-role=""notification-dialog"">catálogo compartilhado</a>localizado em Lojas -> Configuração -> Funcionalidades B2B para utilizar os catálogos compartilhados na visão de loja.  Caso contrário, as categorias e os produtos que você está configurando nos catálogos compartilhados não serão restringidos para os clientes."
-"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features 
-    to use the shared catalogs in the storefront. Otherwise, the categories and products you're 
+"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features
+    to use the shared catalogs in the storefront. Otherwise, the categories and products you're
     configuring in shared catalogs will not be restricted to customers.","Você precisa habilitar o  catálogo compartilhado localizado em Lojas -> Configuração -> Funcionalidades B2B para utilizar os catálogos compartilhados na visão de loja. Caso contrário, as categorias e os produtos que você está configurando nos catálogos compartilhados não serão restringidos para os clientes."
 "Products in Catalog","Produtos no Catalogo"
 "Continue to configure the shared catalog structure and pricing.","Continue para configurar a estrutura e preços do catálogo compartilhados."
@@ -10171,7 +10171,7 @@ Unrequested,"Não solicitado"
 Garantimos nossas aprovações com 100% de proteção contra estorno, reembolsando o valor total do pedido mais as taxas, caso você receba um estorno fraudulento.
 <p>Benefícios:<ul>
 <li>Expanda seu negócio sem medo de fraude</li>
-<li>Aceite mais pedidos e maximize o seu lucro</li>                    
+<li>Aceite mais pedidos e maximize o seu lucro</li>
 <li>Automatize a revisão de pedidos e tire a fraude de pauta</li></ul></p>"
 "<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">Veja nosso guia de configuração</a> para instruções passo-a-passo de como integrar o Signifyd com o Magento.<br />Para suporte entre em contato: <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>."
 "Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","A URL do seu webhook será usada para <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configurar</a> um webhook de garantia completa no Signifyd. Webhooks são usados para sincronizar as decisões de garantia do Signifyd com o Magento."
@@ -10237,7 +10237,7 @@ Yearly,Anual
 "This update not exists.","Esta atualização não existe."
 "Content Staging Dashboard","Painel de avaliação de conteúdo"
 "The Start Time of this Update cannot be changed. It's been already started.","O horário inicial desta atualização não pode ser alterado. Já foi iniciado."
-"Future Update in this time range already exists. 
+"Future Update in this time range already exists.
                             Select a different range to add a new Future Update.","Atualização Futura já existe no intervalo de tempo escolhido. Selecione um intervalo diferente para adicionar uma nova Atualização Futura."
 "Cannot save Update.","Não é possível salvar a atualização."
 "Edit Existing Update","Editar atualização existente"
@@ -11700,18 +11700,18 @@ Translate,Traduzir
 "Enter valid SKU key","Digite uma chave SKU válida"
 "Swatch and Admin are the required fields in the each row.","Swatch e Admin são os campos obrigatórios em cada linha."
 "The widget %1 is no longer available. Select a different widget.","O widget %1 não está mais disponível. Selecione um widget diferente."
-"Carriers","Transportadoras"	
-"Shipping Partners","Parceiros de Remessa"	
-"Country of Manufacture","País de Fabricação"	
-"Short Description","Pequena Descrição"	
-"Search Configuration","Configuração de Pesquisa"	
-"Can be used only with catalog input type Text field, Dropdown, Multiple Select and Price.","Pode ser usado somente com um dos tipos de campo de catálogo: Campo de texto, Menu suspenso, Seleção múltipla e Preço."	
-"Ex: Brand facet will be displayed only if 90% of the product have a brand.","Ex: a marca será exibida apenas se 90% dos produtos tiverem uma marca."	
-"Simple Product","Produto Simples"	
-"Configurable Product","Produto Configurável"	
-"Grouped Product","Produto Agrupado"	
-"Virtual Product","Produto Virtual"	
-"Bundle Product","Pacote de Produto"	
+"Carriers","Transportadoras"
+"Shipping Partners","Parceiros de Remessa"
+"Country of Manufacture","País de Fabricação"
+"Short Description","Pequena Descrição"
+"Search Configuration","Configuração de Pesquisa"
+"Can be used only with catalog input type Text field, Dropdown, Multiple Select and Price.","Pode ser usado somente com um dos tipos de campo de catálogo: Campo de texto, Menu suspenso, Seleção múltipla e Preço."
+"Ex: Brand facet will be displayed only if 90% of the product have a brand.","Ex: a marca será exibida apenas se 90% dos produtos tiverem uma marca."
+"Simple Product","Produto Simples"
+"Configurable Product","Produto Configurável"
+"Grouped Product","Produto Agrupado"
+"Virtual Product","Produto Virtual"
+"Bundle Product","Pacote de Produto"
 "Downloadable Product","Produto para Download"
 "Privacy Policy","Política de Privacidade"
 "System Messages","Mensagens do Sistema"
@@ -11834,13 +11834,3 @@ Inactivate,Inativar
 "No payment method selected","Selecione um metodo de pagamento"
 "Service Temporarily Unavailable","Estamos em Manutenção"
 "The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.","A loja virtual está em manutenção. Por favor, tente novamente mais tarde."
-
-"We can\'t find a page to delete.", "Não foi encontrada um registro para excluir!"
-"This record no longer exists.", "Este registro não existe mais."
-"The record has been deleted.", "O registro foi excluído."
-"Invalid phone number!", "Número de telefone inválido"
-"Invalid e-mail!", "E-mail inválido!"
-"Invalid CPF!", "CPF Inválido!"
-"Invalid CNPJ!", "CNPJ Inválido!"
-"New Record", "Novo Registro"
-"Edit Record: %1", "Editar Registro: %1"

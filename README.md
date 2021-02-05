@@ -17,30 +17,15 @@ Projeto de tradução do Magento 2 exclusivo da Tezus Ecommerce.
 
 ## :checkered_flag: Instalação ##
 
-### Via Composer
-
-```bash
-$ composer require tezus/traducao-magento2
-$ php bin/magento setup:static-content:deploy pt_BR -f
-$ php bin/magento cache:clean
-```
-
-
-
 ### Instalação Manual
 
 ```bash
 # Clone este repositório
 $ git clone https://github.com/tezusecommerce/traducao-tezus
 
-# Caso não tenha, crie o diretório /app/i18n/tezus/pt_BR/, 
-$ cd /app/i18n/
-$ mkdir -p /tezus/pt_BR
-
-# ou copie a pasta tezus diretamente para sua i18n
-$ cp traducao-tezus/app/i18n/tezus/pt_BR/* /app/i18n/tezus/pt_BR/*
-
-# Fazer o deploy e limpar o cache
+# Copie a estrutura de pasta do reposiório /app/i18n/Tezus/pt_BR/
+# Para a pasta /app da sua loja 
+# Depois faça o deploy e limpe o cache
 $ php bin/magento setup:static-content:deploy pt_BR -f
 $ php bin/magento cache:clean
 ```

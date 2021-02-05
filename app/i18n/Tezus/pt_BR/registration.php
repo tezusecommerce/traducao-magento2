@@ -3,4 +3,4 @@ declare(strict_types=1);
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'tezus_pt_br', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'Tezus_pt_BR', __DIR__);
